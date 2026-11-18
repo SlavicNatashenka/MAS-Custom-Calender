@@ -19,3 +19,5 @@ Dialogue
 - "What day is it today?" Talk Topic: Go to Talk > Hey Monika > Day > What day is it today? anytime to have Monika tell you the date and react to any events happening today.
 
 - "Can we check our calendar?" Talk Topic: Open the calendar from Talk > Hey Monika > Misc. (Added if youre in a room that doesn't have the calendar on the wall like other spacerooms.)
+
+Redistribution, reposting, modification, monetization, or donation-linked re-use of this is strictly prohibited without permission. Thank you!( ˶˘ ³˘)♡
